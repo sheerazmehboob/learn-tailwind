@@ -10,6 +10,10 @@ module.exports = {
         medium: '1200px'
       }
     },
+    fontFamily: {
+      'sans': ['Helvetica', 'Arial', 'sans-serif'],
+      'display': ['Custom Font', 'Other Font'],
+    }
   },
   variants: {
     extend: {},
