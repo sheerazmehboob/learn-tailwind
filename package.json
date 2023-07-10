@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "tailwindcss -o ./build/css/styles.css --watch"
+    "start": "tailwindcss -i ./src/styles.css -o ./build/css/styles.css --watch"
   },
   "author": "",
   "license": "ISC",
